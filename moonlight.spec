@@ -9,7 +9,6 @@ Source0:	http://moonlight3d.net/download/%{name}-setup-%{version}-beta.tar.gz
 URL:		http://moonlight3d.net/
 Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
 
 %description
 Moonlight3D is a free of charge modeller for 3-dimensional art. It
