@@ -5,9 +5,6 @@ Version:	0.9.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Graphics
-Group(de):	X11/Applikationen/Grafik
-Group(pl):	X11/Aplikacje/Grafika
-Group(pt):	X11/Aplicações/Gráficos
 Source0:	http://moonlight3d.net/download/%{name}-setup-%{version}-beta.tar.gz
 URL:		http://moonlight3d.net/
 Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
