@@ -8,8 +8,7 @@ Group:		X11/Applications/Graphics
 Source0:	http://moonlight3d.net/download/%{name}-setup-%{version}-beta.tar.gz
 # Source0-md5:	740ce9efe5ea21cb32c9abf8a01702ac
 URL:		http://moonlight3d.net/
-Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
-
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Moonlight3D is a free of charge modeller for 3-dimensional art. It
