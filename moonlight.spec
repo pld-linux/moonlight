@@ -1,5 +1,5 @@
 Summary:	Moonlight Atelier - 3D Modeller
-Summary(pl):	Moonlight Atelier - Modeler 3D
+Summary(pl.UTF-8):   Moonlight Atelier - Modeler 3D
 Name:		moonlight
 Version:	0.9.2
 Release:	1
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Moonlight3D is a free of charge modeller for 3-dimensional art. It
 supports Nurbs- and Beziercurve based modelling.
 
-%description -l pl
-Moonlight3D jest darmowym modelerem 3D. Wspiera modelowanie bazuj±ce
+%description -l pl.UTF-8
+Moonlight3D jest darmowym modelerem 3D. Wspiera modelowanie bazujÄ…ce
 na krzywych NURBS i Beziera.
 
 %prep
