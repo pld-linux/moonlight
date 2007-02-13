@@ -1,5 +1,5 @@
 Summary:	Moonlight Atelier - 3D Modeller
-Summary(pl.UTF-8):   Moonlight Atelier - Modeler 3D
+Summary(pl.UTF-8):	Moonlight Atelier - Modeler 3D
 Name:		moonlight
 Version:	0.9.2
 Release:	1
